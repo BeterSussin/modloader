@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.2.1</version>
+  <version>1.2.4</version>
   <url>https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/ModManagerUpdate.zip</url>
   <changelog>https://pastebin.com/raw/JGDXLKCp</changelog>
   <mandatory>true</mandatory>
