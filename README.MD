@@ -1,4 +1,5 @@
 ![secret_furry](https://i.imgur.com/B0MZsd3.png)
+> Mon Bazou moderator moment
 
 Here is the Crack of the Mon Bazou Loader.
 
@@ -22,3 +23,4 @@ Only tested on the newest version of the game and it works fine. If you have any
 ```
 And Santa Goat if you are reading this that stop developing this dogshit pile of spaghetti code Loader and publish your mods on nexusmods or something like that because it is so painful and cringe to see your mods and devs "hunting" for pirated copies. I get it, you dont want your game to be pirated and i bought it myself because it is pretty great but Amenofish clearly dosent know what he is doing and the mod loader drama is just cringe. There are many false postives. You cannot stop people from pirating your game because it is steam. 
 
+addme on discord: rev#3653
