@@ -3,7 +3,7 @@
     "name": "BrightLife",
     "author": "BeterSussin",
     "imageurl": "",
-    "downloadurl": "https://github.com/BeterSussin/modloader/raw/main/BrightLife.dll",
+    "downloadurl": "https://raw.githubusercontent.com/BeterSussin/modloader/main/BrightLife.dll",
 	"dllname": "BrightLife.dll",
 	"zipname": "",
 	"isZip": "false",
