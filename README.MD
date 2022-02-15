@@ -1,7 +1,7 @@
 ![secret_furry](https://i.imgur.com/B0MZsd3.png)
 > Mon Bazou moderator moment
 
-addme on discord: rev#3653
+addme on discord: bwmlover99#3612
 for help!
 
 Here is the Crack of the Mon Bazou Loader.
