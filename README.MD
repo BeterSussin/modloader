@@ -12,7 +12,9 @@ Enjoy it i dont know if i will bring out any updates to the loader itself bc it 
 Only tested on the newest version of the game and it works fine. If you have any questions than fuck yourself i wont give support. Maybe under the YouTube Video.
 
 ```diff
-- If there is any retarded Error you can go on the official Mon Bazou Discord and look at the flowchart but dont write in the mod support channel or you will be banned
-- for using a pirated copy of the game. If they are any bugs go and complain at their retarded Developer Amenofisch bc his code is dogshit and i wont be bothered to fix
+- If there is any retarded Error you can go on the official Mon Bazou Discord and look at the flowchart
+- but dont write in the mod support channel or you will be banned
+- for using a pirated copy of the game. If they are any bugs go and complain at their retarded
+- Developer Amenofisch bc his code is dogshit and i wont be bothered to fix
 - his shit.
 ```
